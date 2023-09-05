@@ -46,7 +46,7 @@ I'm a WordPress dev on the side *Shhh! Don't tell anyone!*
 <p/>
 
 ### 🤝 Let's Connect 
-Whether you're looking for a coding collaborator, bot guru, or just a friendly chat about tech and business, I'm your partner in crime. Hit me an email at [giulidevs@gmail.com](giulidevs@gmail.com)
+Whether you're looking for a coding collaborator, bot guru, or just a friendly chat about tech and business, I'm your partner in crime. Send me an email at [giulidevs@gmail.com](giulidevs@gmail.com)
 
 ---
 
