@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./assets/github-header-image.png)
 
 ## 👩‍💼🚀 About Me: From Business to Bytes! 🚀👩‍💼
 
@@ -48,6 +48,7 @@ I'm a WordPress dev on the side *Shhh! Don't tell anyone!*
 ### 🤝 Let's Connect 
 Whether you're looking for a coding collaborator, bot guru, or just a friendly chat about tech and business, I'm your partner in crime. Hit me an email at [giulidevs@gmail.com](giulidevs@gmail.com)
 
+---
+
 *Keep coding, keep innovating, and keep smiling!* 😄✨
 
----
