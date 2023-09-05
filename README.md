@@ -1,4 +1,4 @@
-# Hi there, {coder} ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Giulianna Cersosimo
+# Hi there, {coder} ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Giulianna
 
 ## 👩‍💼🚀 About Me: From Business to Bytes! 🚀👩‍💼
 
@@ -44,4 +44,5 @@ Whether you're looking for a coding collaborator, bot guru, or just a friendly c
 ---
 <p align="center">
 <a href="https://www.github.com/giulianac-git"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianac-git&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /></a>
+<p/>
 
