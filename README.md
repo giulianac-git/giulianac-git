@@ -36,13 +36,17 @@ I'm not just about the code; I'm also a **co-founder** of [**dopixel.cloud**](ht
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)   
 I'm a WordPress dev on the side *Shhh! Don't tell anyone!* 
 
+### 🥇 Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=giulianac-git&theme=discord&no-frame=true&no-bg=true)](https://github.com/giulianac-git/github-profile-trophy)
+
+### 📊 Github Stats
+<p align="center">
+<a href="https://www.github.com/giulianac-git"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianac-git&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /></a>
+<p/>
+
 ### 🤝 Let's Connect 
 Whether you're looking for a coding collaborator, bot guru, or just a friendly chat about tech and business, I'm your partner in crime. Hit me an email at [giulidevs@gmail.com](giulidevs@gmail.com)
 
 *Keep coding, keep innovating, and keep smiling!* 😄✨
 
 ---
-<p align="center">
-<a href="https://www.github.com/giulianac-git"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianac-git&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /></a>
-<p/>
-
