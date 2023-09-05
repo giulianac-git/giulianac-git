@@ -37,7 +37,8 @@ I'm not just about the code; I'm also a **co-founder** of [**dopixel.cloud**](ht
 I'm a WordPress dev on the side *Shhh! Don't tell anyone!* 
 
 ### 🥇 Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=giulianac-git&theme=discord&no-frame=true&no-bg=true)](https://github.com/giulianac-git/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=giulianac-git&theme=onedark&row=1&no-frame=true&no-bg=true)](https://github.com/giulianac-git/github-profile-trophy)
 
 ### 📊 Github Stats
 <p align="center">
