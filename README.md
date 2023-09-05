@@ -30,7 +30,7 @@ I'm not your typical Full Stack Developer; I'm a seasoned businesswoman with ove
 I've developed Discord bots for community moderation, giveaways, in-server games, just to mention a few. If you need a bot buddy, hit me up!
 
 ### 🚀 Entrepreneurship Bug 
-I'm not just about the code; I'm also a **co-founder** of [**dopixel.cloud**](https://dopixel.cloud) and [**dopixel.io**](https://dopixel.io). These 2 are my latest babies, aimed to provide a fullset of tools for web development. 
+I'm not just about the code; I'm also a **co-founder** of [**dopixel.cloud**](https://dopixel.cloud) and [**dopixel.io**](https://dopixel.io). These 2 are my latest babies, aimed to provide a full set of tools for web development. 
 
 ### ⚡ Fun Fact 
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)   
