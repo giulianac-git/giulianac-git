@@ -7,7 +7,7 @@ I'm not your typical Full Stack Developer; I'm a seasoned businesswoman with ove
 ### 💻 Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -22,29 +22,26 @@ I'm not your typical Full Stack Developer; I'm a seasoned businesswoman with ove
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=cloudflare)
 
 ### 🤖 Bots with Brains 
-![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord) 
-I've developed bots for everything from community moderation to exciting giveaways. If you need a bot buddy, I'm your go-to!
+![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)   
+I've developed Discord bots for community moderation, giveaways, in-server games, just to mention a few. If you need a bot buddy, hit me up!
 
 ### 🚀 Entrepreneurship Bug 
 I'm not just about the code; I'm also a **co-founder** of [**dopixel.cloud**](https://dopixel.cloud) and [**dopixel.io**](https://dopixel.io). These 2 are my latest babies, aimed to provide a fullset of tools for web development. 
 
-### 🌟 Forever a Tech Trainee 
-The tech world never stops moving, and neither do I. I'm constantly on the search for the latest techs and learning about them. Why? Because I believe in building cooler apps that leave a lasting impression.
+### ⚡ Fun Fact 
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)   
+I'm a WordPress dev on the side *Shhh! Don't tell anyone!* 
 
 ### 🤝 Let's Connect 
 Whether you're looking for a coding collaborator, bot guru, or just a friendly chat about tech and business, I'm your partner in crime. Hit me an email at [giulidevs@gmail.com](giulidevs@gmail.com)
 
-### ⚡ Fun Fact 
-![Wordpress](https://img.shields.io/badge/-wordpress-000?&logo=wordpress)
-I'm a WordPress dev on the side *Shhh! Don't tell anyone!* 
-
-
 *Keep coding, keep innovating, and keep smiling!* 😄✨
 
 ---
+<p align="center">
+<a href="https://www.github.com/giulianac-git"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianac-git&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /></a>
 
-**P.S.**: Don't hesitate to reach out! Let's make some binary bonds and turn your ideas into pixel-perfect realities. 💬👩‍💻✨
-
-<a href="https://www.github.com/giulianac-git"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianac-git&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
