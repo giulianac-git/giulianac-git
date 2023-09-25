@@ -38,7 +38,7 @@ I'm a WordPress dev on the side *Shhh! Don't tell anyone!*
 
 ### 🏆 Github Trophies
 
-![GitHub Trophies](https://github-profile-trophy-brown-xi.vercel.app/?username=giulianac-git&theme=radical)
+![GitHub Trophies](https://github-profile-trophy-brown-xi.vercel.app/?username=giulianac-git&rank=-C,-B&theme=discord&row=1)
 
 ### 📊 Github Stats
 <p align="center">
