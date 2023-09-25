@@ -36,6 +36,10 @@ I'm not just about the code; I'm also a **co-founder** of [**dopixel.cloud**](ht
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)   
 I'm a WordPress dev on the side *Shhh! Don't tell anyone!* 
 
+### 🏆 Github Trophies
+
+![GitHub Trophies](https://github-profile-trophy-brown-xi.vercel.app/?username=giulianac-git&theme=radical)
+
 ### 📊 Github Stats
 <p align="center">
 <a href="https://www.github.com/giulianac-git"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianac-git&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /></a>
